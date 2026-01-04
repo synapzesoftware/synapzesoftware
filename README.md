@@ -1,36 +1,77 @@
-# 🚀 Synapze
+<p align="center">
+  <img src="./logo-icon.png" alt="Synapze Logo" width="120"/>
+</p>
 
-**Transforming ambitious ideas into elegant, scalable software solutions.**
+<h1 align="center">🚀 Synapze</h1>
 
-At **Synapze**, we design and engineer intelligent digital products that empower businesses to innovate, scale, and lead with confidence in a rapidly evolving digital world.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=0A84FF&center=true&vCenter=true&width=700&lines=Transforming+ideas+into+scalable+software;AI-powered+digital+solutions;Enterprise+%26+Startup+Technology+Partner;A+new+era+of+digital+experience"
+    alt="Typing Animation"
+  />
+</p>
 
-> **Nothing is impossible, confidence is the key.**
+<p align="center">
+  <strong>Transforming ambitious ideas into elegant, scalable software solutions.</strong>
+</p>
+
+<p align="center">
+  <em>Nothing is impossible, confidence is the key.</em>
+</p>
 
 ---
 
 ## 🌍 About Us
 
-**Synapze** is a technology-driven software company focused on delivering **AI-powered, high-performance, and future-ready solutions**.  
-We combine **cutting-edge technology** with **creative problem-solving** to build software that creates real business impact.
+**Synapze** is a technology-driven software company focused on delivering  
+**AI-powered, high-performance, and future-ready solutions**.
+
+We combine **cutting-edge technology**, **clean architecture**, and **creative problem-solving** to build software that creates real business impact.
 
 ---
 
 ## 🧠 Our Services
 
-💡 **AI Solutions & Integration**  
-🤖 **AI Chatbots & Intelligent Automation**  
-📱 **Mobile App Development**  
-🌐 **Web Application Development**  
-🛒 **E-commerce Solutions**  
-🏢 **Enterprise Systems & ERP Solutions**  
-🧩 **IT Consulting & System Architecture**  
-🔧 **Ongoing Support & Optimization**
+- 💡 **AI Solutions & Integration**
+- 🤖 **AI Chatbots & Intelligent Automation**
+- 📱 **Mobile App Development**
+- 🌐 **Web Application Development**
+- 🛒 **E-commerce Solutions**
+- 🏢 **Enterprise Systems & ERP Solutions**
+- 🧩 **IT Consulting & System Architecture**
+- 🔧 **Ongoing Support & Optimization**
 
 ---
 
 ## 🛠️ Technology Stack
 
-We work with modern, scalable technologies to ensure reliability and performance.
+We work with modern, scalable, and secure technologies:
+
+**Frontend**
+- React
+- Next.js
+- Tailwind CSS
+- Material UI
+
+**Backend**
+- Node.js
+- Spring Boot
+- .NET Core
+
+**Databases**
+- MongoDB
+- MySQL
+- SQL Server
+
+**AI & Automation**
+- Machine Learning
+- AI APIs
+- Custom AI Models
+
+**DevOps**
+- Git & GitHub
+- CI/CD Pipelines
+- Cloud Deployment
 
 ---
 
@@ -48,45 +89,46 @@ We work with modern, scalable technologies to ensure reliability and performance
 
 ### 👨‍💻 Harshana Eshan  
 **Co-founder**  
-🔗 LinkedIn: [harshana-eshan](https://www.linkedin.com/in/harshana-eshan)  
+🔗 LinkedIn: https://www.linkedin.com/in/harshana-eshan  
 📧 Email: harshanaeshan.info@gmail.com  
 
 ---
 
 ### 👨‍💻 Bishan Prabashwara  
 **Co-founder**  
-🔗 LinkedIn: [bishan-prabhashwara](https://www.linkedin.com/in/bishan-prabhashwara-0040a5223)  
+🔗 LinkedIn: https://www.linkedin.com/in/bishan-prabhashwara-0040a5223  
 📧 Email: bishanprabhashwara@gmail.com  
 
 ---
 
 ## 🌐 Connect With Us
 
-🌍 Website: **https://www.thesynapze.com**  
-📧 Email: **synapze.info@gmail.com**  
-📞 Contact: **+94 77 599 8382**
+🌍 Website: https://www.thesynapze.com  
+📧 Email: synapze.info@gmail.com  
+📞 Contact: +94 77 599 8382  
 
 ### 📲 Social Media
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/synapze/  
-- 🎵 TikTok: https://www.tiktok.com/@synapze.global  
-- 📸 Instagram: https://www.instagram.com/synapze.global  
-- 📘 Facebook: https://www.facebook.com/share/1X19H9F855/?mibextid=wwXIfr  
-- 💬 WhatsApp: https://wa.me/+94775998382  
+- 🔗 LinkedIn: https://www.linkedin.com/in/synapze/
+- 🎵 TikTok: https://www.tiktok.com/@synapze.global
+- 📸 Instagram: https://www.instagram.com/synapze.global
+- 📘 Facebook: https://www.facebook.com/share/1X19H9F855/?mibextid=wwXIfr
+- 💬 WhatsApp: https://wa.me/+94775998382
 
 ---
 
 ## 📌 Our GitHub
 
-Our GitHub repositories feature:
-- Production-ready applications  
-- AI & automation solutions  
-- Scalable enterprise systems  
-- Open-source experiments & tools  
+Our repositories include:
+- Production-ready applications
+- AI & automation systems
+- Scalable enterprise platforms
+- Open-source tools & experiments
 
 ⭐ Follow us to stay updated with our latest innovations.
 
 ---
 
-### ⚡ Synapze  
-**A new era of digital experience.**
+<p align="center">
+  <strong>⚡ Synapze — A new era of digital experience.</strong>
+</p>
