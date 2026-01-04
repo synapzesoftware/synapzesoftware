@@ -2,7 +2,7 @@
   <img src="./logo-icon.png" alt="Synapze Logo" width="120"/>
 </p>
 
-<h1 align="center">🚀 Synapze</h1>
+<h1 align="center">Synapze</h1>
 
 <p align="center">
   <img
@@ -45,33 +45,7 @@ We combine **cutting-edge technology**, **clean architecture**, and **creative p
 
 ## 🛠️ Technology Stack
 
-We work with modern, scalable, and secure technologies:
-
-**Frontend**
-- React
-- Next.js
-- Tailwind CSS
-- Material UI
-
-**Backend**
-- Node.js
-- Spring Boot
-- .NET Core
-
-**Databases**
-- MongoDB
-- MySQL
-- SQL Server
-
-**AI & Automation**
-- Machine Learning
-- AI APIs
-- Custom AI Models
-
-**DevOps**
-- Git & GitHub
-- CI/CD Pipelines
-- Cloud Deployment
+We work with modern, scalable, and secure technologies.
 
 ---
 
@@ -82,22 +56,6 @@ We work with modern, scalable, and secure technologies:
 ✔️ Performance-driven development  
 ✔️ Secure & maintainable code  
 ✔️ Continuous innovation  
-
----
-
-## 👥 Core Founders
-
-### 👨‍💻 Harshana Eshan  
-**Co-founder**  
-🔗 LinkedIn: https://www.linkedin.com/in/harshana-eshan  
-📧 Email: harshanaeshan.info@gmail.com  
-
----
-
-### 👨‍💻 Bishan Prabashwara  
-**Co-founder**  
-🔗 LinkedIn: https://www.linkedin.com/in/bishan-prabhashwara-0040a5223  
-📧 Email: bishanprabhashwara@gmail.com  
 
 ---
 
@@ -114,6 +72,22 @@ We work with modern, scalable, and secure technologies:
 - 📸 Instagram: https://www.instagram.com/synapze.global
 - 📘 Facebook: https://www.facebook.com/share/1X19H9F855/?mibextid=wwXIfr
 - 💬 WhatsApp: https://wa.me/+94775998382
+
+---
+
+## 👥 Core Founders
+
+### 👨‍💻 Harshana Eshan  
+**Co-founder**  
+🔗 LinkedIn: https://www.linkedin.com/in/harshana-eshan  
+📧 Email: harshanaeshan.info@gmail.com  
+
+---
+
+### 👨‍💻 Bishan Prabashwara  
+**Co-founder**  
+🔗 LinkedIn: https://www.linkedin.com/in/bishan-prabhashwara-0040a5223  
+📧 Email: bishanprabhashwara@gmail.com  
 
 ---
 
