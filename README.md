@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./logo-icon.png" alt="Synapze Logo" width="120"/>
+  <img src="./logo-icon.png" alt="Synapze Logo" width="50" height="50"/>
 </p>
+
 
 <h1 align="center">Synapze</h1>
 
